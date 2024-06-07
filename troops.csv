@@ -1,0 +1,89 @@
+,Name,Elixir Cost,Hitpoints,Damage,Hit Speed,DPS,Type
+0,Archers,3,304,107,0.9,118,Troop
+1,Archer Queen,5 (1),"1,000",225,1.2,187,Troop
+2,Baby Dragon,4,"1,152",160,1.5,106,Troop
+3,Balloon,5,"1,680",640,2,320,Troop
+4,Bandit,3,907,193,1,193,Troop
+5,Barbarians,5,670,192,1.3,147,Troop
+6,Bats,2,81,81,1.3,62,Troop
+7,Battle Healer,4,"1,717",148,1.5,98,Troop
+8,Battle Ram,4,966,286,N/A,N/A,Troop
+9,Bomber,2,332,230,1.8,128,Troop
+10,Bowler,5,"2,080",288,2.5,115,Troop
+11,Cannon Cart,5,1712 (820+892),212,1,212,Troop
+12,Cursed Hog,N/A,629,53,1.2,44,Troop
+13,Dark Prince,4,"1440 (1,200+240)",248,1.3,190,Troop
+14,Dart Goblin,3,260,131,0.7,187,Troop
+15,Electro Dragon,5,950,192 (x3),2.1,91 (x3),Troop
+16,Electro Giant,7,"3,856",163,2.1,77,Troop
+17,Electro Spirit,1,230,99 (x9),N/A,N/A,Troop
+18,Electro Wizard,4,713,110 (x2),1.8,122,Troop
+19,Elite Barbarians,6,"1,341",384,1.4,274,Troop
+20,Elixir Blob,N/A,360,63,1.1,57,Troop
+21,Elixir Golem,3,"1,568",254,1.1,230,Troop
+22,Elixir Golemite,N/A,763,127,1.1,115,Troop
+23,Executioner,5,"1,280",169 (x2),2.4,140,Troop
+24,Firecracker,3,304,64 (x5),3,106,Troop
+25,Fire Spirit,1,230,207,N/A,N/A,Troop
+26,Fisherman,3,871,193,1.3,148,Troop
+27,Flying Machine,4,614,171,1.1,155,Troop
+28,Giant,5,"4,091",254,1.5,169,Troop
+29,Giant Skeleton,6,"3,616",267,1.4,190,Troop
+30,Goblin Brawler,4,"1,081",337,1.1,306,Troop
+31,Goblin Gang,3,202/133,120/81,1.1/1.7,109/47,Troop
+32,Goblin Giant,6,"3,232",176/81,1.5,117/54,Troop
+33,Goblins,2,202,120,1.1,109,Troop
+34,Golden Knight,4 (1),"1,800",160,0.9,177,Troop
+35,Golem,8,"5,120",312,2.5,124,Troop
+36,Golemite,N/A,"1,040",49,2.5,19.6,Troop
+37,Guardienne,N/A,"1,600",200,1.2,166,Troop
+38,Guards,3,337 (81 + 256),121,1,121,Troop
+39,Hog Rider,4,"1,696",318,1.6,198,Troop
+40,Hunter,4,838,84 (x10),2.2,381,Troop
+41,Heal Spirit,1,231,110,N/A,N/A,Troop
+42,Ice Golem,2,"1,197",84,2.5,33,Troop
+43,Ice Spirit,1,230,110,N/A,N/A,Troop
+44,Ice Wizard,3,688,90,1.7,52,Troop
+45,Inferno Dragon,4,"1,294",36-423,0.4,"90-1,057",Troop
+46,Knight,3,"1,766",202,1.2,168,Troop
+47,Lava Hound,7,"3,581",54,1.3,41,Troop
+48,Lava Pup,N/A,216,90,1.7,52,Troop
+49,Little Prince,3 (3),700,100,1.2/0.8/0.4,91/125/250,Troop
+50,Lumberjack,4,"1,282",242,0.8,302,Troop
+51,Magic Archer,4,532,134,1.1,121,Troop
+52,Mega Knight,7,"3,993",268,1.7,157,Troop
+53,Mega Minion,3,837,311,1.5,207,Troop
+54,Mighty Miner,4 (1),"2,250",40-400,0.4,100-1000,Troop
+55,Miner,3,"1,210",193 (48 to towers),1.2,160 (40 to towers),Troop
+56,Mini P.E.K.K.A.,4,"1,361",720,1.6,450,Troop
+57,Minion Horde,3,230,117,1,117,Troop
+58,Minions,3,230,117,1,117,Troop
+59,Monk,5 (1),"2,150",140/420,0.8,175,Troop
+60,Mother Witch,4,532,133,1,133,Troop
+61,Musketeer,4,720,218,1,218,Troop
+62,Night Witch,4,907,314,1.3,241,Troop
+63,P.E.K.K.A.,7,"3,760",816,1.8,453,Troop
+64,Phoenix,4,"1,052",217,1,217,Troop
+65,Reborn Phoenix,4,842,174,1,174,Troop
+66,Prince,5,"1,920",392,1.4,280,Troop
+67,Princess,3,261,169,3,56,Troop
+68,Ram Rider,5,"1,767",266/104,1.8/1.1,147/94,Troop
+69,Rascal Boy,5,"1,940",133,1.5,88,Troop
+70,Rascal Girl,5,261,133,1,133,Troop
+71,Royal Ghost,3,"1,210",261,1.8,145,Troop
+72,Royal Giant,6,"3,072",307,1.7,180,Troop
+73,Royal Hogs,5,837,74,1.2,61,Troop
+74,Royal Recruits,7,772 (532+240),133,1.3,102,Troop
+75,Skeleton Army,3,81,81,1,81,Troop
+76,Skeleton Barrel,3,532,133,N/A,N/A,Troop
+77,Skeleton Dragons,4,563,161,1.9,84,Troop
+78,Skeleton King,4 (2),"2,300",205,1.6,128,Troop
+79,Skeletons,1,81,81,1,81,Troop
+80,Sparky,6,"1,452","1,331",4,332,Troop
+81,Spear Goblins,2,133,81,1.7,47,Troop
+82,Three Musketeers,9,720,218,1,218,Troop
+83,Valkyrie,4,"1,908",267,1.6,178,Troop
+84,Wall Breakers,2,331,392,N/A,N/A,Troop
+85,Witch,5,838,134,1.1,121,Troop
+86,Wizard,5,720,281,1.4,200,Troop
+87,Zappies,4,530,116,2.1,55,Troop
